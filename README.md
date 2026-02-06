@@ -38,7 +38,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhiramiramesh&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhiramiramesh&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiramiramesh&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -52,5 +56,5 @@
 </p>
 
 <p align="center">
-  📧 Email: yourname@gmail.com
+  📧 Email: abhiramiramesh97@gmail.com
 </p>
