@@ -5,7 +5,7 @@
 <p>💻 Python · Django · React · Web Apps · Problem Solver</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Meaningful+Projects;Learning+Every+Day;Open+Source+Enthusiast&center=true&width=600&height=50" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Meaningful+Projects;Learning+Every+Day;Aspiring+Software+Developer&center=true&width=600&height=50" alt="Typing SVG">
 </p>
 
 </div>
@@ -25,18 +25,13 @@
 
 ---
 
-## 🧠 Projects Highlights
+## 🧠 Project Highlights
 
-### ⭐ Featured
-- 🌿 **Herbify** – *HTML/CSS Project*  
-  Simple and neat static site for plants/herbal info  
-- 🛠 **Furnicom** – *HTML/CSS UI Project*  
-  UI design for furniture e-commerce  
-- 📘 **gsop.** – *HTML Project*  
-  (Add a description here)
-- 🧪 **hello-world** – Starter repo
+- 🌿 **Herbify** – *HTML & CSS*  
+  Static website showcasing herbal plants and their benefits  
 
-*(Add links with `https://github.com/Abhiramiramesh/REPO_NAME` if you want)*
+- 🛠 **Furnicom** – *HTML & CSS*  
+  Furniture e-commerce UI design project  
 
 ---
 
@@ -48,13 +43,14 @@
 
 ---
 
-## 📫 Contact Me
+## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/abhiramiramesh/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhirami%20B-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
+</p>
+
+<p align="center">
+  📧 Email: yourname@gmail.com
 </p>
