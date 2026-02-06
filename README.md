@@ -1,8 +1,8 @@
 <div align="center">
 
 <h1>👋 Hi, I’m Abhirami B</h1>
-<p>🌟 B.Tech in CSE | Full Stack Developer</p>
-<p>💻 Python · Django · React · Web Apps · Problem Solver</p>
+<p>🌟 B.Tech in CSE | Aspiring Full Stack Developer</p>
+<p>💻 Python · Django · React · Websites · Problem Solver</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Meaningful+Projects;Learning+Every+Day;Aspiring+Software+Developer&center=true&width=600&height=50" alt="Typing SVG">
@@ -38,11 +38,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhiramiramesh&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhiramiramesh&show_icons=true&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiramiramesh&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiramiramesh&layout=compact&theme=github_dark" />
 </p>
 
 ---
